@@ -1,5 +1,5 @@
 <template>
-  <h1>Error no tiene acceso a la pagina 403</h1>
+  <h1>Pagina para ingresar las notas</h1>
 </template>
 
 <script>

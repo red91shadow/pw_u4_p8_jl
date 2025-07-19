@@ -1,5 +1,5 @@
 <template>
-  <h1>403</h1>
+  <h1>No tiene acceso a este recurso</h1>
 </template>
 
 <script>
